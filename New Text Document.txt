@@ -1,0 +1,11 @@
+	ADMINISTRATOR
+username: admin ;
+password: 1234;
+
+
+	       USER
+mustakim@gamil.com = mustakim;
+zesan@gmail.com = zesan;
+aminur@gmail.com = aminur;
+rumon@gmail.com = rumon;
+alpona@gmail.com = alpona;
